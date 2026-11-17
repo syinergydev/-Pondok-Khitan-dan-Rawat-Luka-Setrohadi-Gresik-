@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{ts,tsx}'], theme: { extend: { colors: { g:'#35B84A', dg:'#14532D', gold:'#E5B629', ink:'#171717', warm:'#FAFAF6', soft:'#EDF7EE' }, fontFamily: { sans:['"Plus Jakarta Sans"','system-ui','sans-serif'], display:['"Bricolage Grotesque"','"Plus Jakarta Sans"','sans-serif'] } } }, plugins: [] }
